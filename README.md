@@ -24,6 +24,8 @@ u need to run this script as a user with aminstrative rights (best to do it with
 i dont take any responsbilty for your devices
 
 
+MAKE SURE TO REBOOT AFTER RUNNING THIS SCRIPT IF U DONT IT WONT WORK 
+
 # installion metod:
 
 clone this repostory with git clone:
@@ -54,6 +56,10 @@ run the script:
 
 ./wl-easy-config-linux.sh
 
+
+
+reboot your pc after the script is done runing:
+reboot
 
 
 and thats it you're done just follow the steps on the script
