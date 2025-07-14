@@ -59,6 +59,8 @@ run the script:
 
 
 reboot your pc after the script is done runing:
+
+
 reboot
 
 
