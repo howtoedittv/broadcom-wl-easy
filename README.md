@@ -5,11 +5,12 @@ a script that does the steps for installing the broadcom-wl wifi driver on some 
 
 at the momment the following linux distros are avalible:
 
-1) ubuntu
+1) ubuntu 24.04 or later
 2) open-SUSE / open-SUSE tumbleweed
 3) void-linux
-4) kde-neon
+4) kde-neon / ubuntu 22.04 or before
 5) arch-linux
+6) gentoo
 
 it is quite possible that in the future more distros will be added :>
 
